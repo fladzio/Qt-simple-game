@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/box.jpg</file>
+        <file>images/icon5.png</file>
+        <file>images/sphereTexture.jpg</file>
+    </qresource>
+</RCC>
